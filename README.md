@@ -20,6 +20,7 @@ MySQL
 SQL
 Flask (for Web Integration)
 Tableau Public
+
 🔄 Project Workflow
 Problem Understanding
 Business Requirement Analysis
@@ -34,6 +35,7 @@ Create Story
 Performance Testing
 Web Integration using Flask
 Project Documentation & Demo
+
 📊 Visualizations Created
 The project includes 10 unique visualizations:
 
@@ -56,6 +58,7 @@ Combine multiple visualizations
 Enable filtering by demographic and health factors
 Provide clear and structured insights
 Support dynamic data exploration
+
 📖 Story
 A Tableau Story was developed to present insights step-by-step, making the analysis more understandable and impactful.
 
@@ -64,6 +67,7 @@ Optimized SQL queries
 Used data filters efficiently
 Ensured smooth dashboard performance
 Monitored data rendering from database
+
 🌐 Web Integration
 The Tableau Dashboard and Story were embedded into a Flask web application, enabling users to interact with the visualizations through a browser interface.
 
@@ -77,5 +81,6 @@ Doctors identify high-risk patients
 Policymakers design preventive programs
 Individuals understand personal health risks
 Promote awareness about cardiovascular health
+
 🏁 Conclusion
 This project demonstrates how data visualization tools like Tableau can transform healthcare data into actionable insights, supporting better decision-making and preventive healthcare strategies.
